@@ -9,10 +9,10 @@
 Assignments
 ---
 
-- 1️⃣ Partitioning - FM Heuristic
-- 2️⃣ Floorplanning - B*-Tree + Simulated Annealing
-- 3️⃣ Standard Cell Layout - Euler Path + Simulated Annealing
-- 4️⃣ Channel Routing - Dogleg channel router
+- `1` Partitioning - FM Heuristic
+- `2` Floorplanning - B*-Tree + Simulated Annealing
+- `3` Standard Cell Layout - Euler Path + Simulated Annealing
+- `4` Channel Routing - Dogleg channel router
 
 Final Grade
 ---
