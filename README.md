@@ -3,7 +3,7 @@
 > [!NOTE]
 > `Exam papers and assignment specs are included.`
 
-- 📖 Physical Design Automation, Fall 2023, NYCU
+- 📖 Physical Design Automation, 2023 Fall, NYCU
 - 🧑‍🏫 Lin, Mark Po-Hung
 
 Assignments
