@@ -1,4 +1,4 @@
-# NYCU_Physical_Design_Automation_2023
+# NYCU Physical Design Automation, 2023 Fall
 
 > [!NOTE]
 > `Exam papers and assignment specs are included.`
